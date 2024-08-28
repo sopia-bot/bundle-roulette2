@@ -1,0 +1,10 @@
+{
+  "name": "roulette2",
+  "name:ko": "룰렛 2",
+  "version": "0.0.1",
+  "main": "./apps/worker/src/index.js",
+  "page": "index.html?port=18832",
+  "pageRoot": "apps/roulette2",
+  "page-version": 2,
+  "debug": true
+}
